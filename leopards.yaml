@@ -1,10 +1,7 @@
-team: Leopards
-
-manager: luke
-
-🎠coach: Nicholas, Melissa, Oscar, Lupi 
-
-members:
+[team: Leopards]
+✔manager: luke
+✔coach: Nicholas, Melissa, Oscar, Lupi 
+✔members:
 - Linda
 - William
 - David
