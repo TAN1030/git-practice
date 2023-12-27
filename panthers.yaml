@@ -1,12 +1,9 @@
-team: Panthers
-
-manager: Sebastian
-
-🎠coach: Shirley, Raymond   # Teddy
-
-members:
+<team: Panthers>
+✔manager: Sebastian
+✔coach: Shirley, Raymond   # Teddy
+✔members:
 - Violet
 - Stella
 - Anthony
 - Freddie
-- AraMaruchi 
+- AraMaruchi
